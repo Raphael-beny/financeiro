@@ -1,0 +1,44 @@
+{
+    "id": "OD-01-05-VDQ1-72KZBYK4Q",
+    "payment_method": "credit_card",
+    "charge": "99.00",
+    "total": "223.30",
+    "products": [
+        {
+            "name": "Pizza Banana",
+            "quantity": "1",
+            "unitary_value": "39.90",
+            "total_value": "39.90"
+        }
+    ],
+    "customer": {
+        "name": "Lorena",
+        "email": "lorena.corticioni@hotmail.com",
+        "phone": "5534996928555",
+        "document": "02140137663",
+        "address": {
+            "number": "1722",
+            "street": "Rua Armando Tucci",
+            "neighborhood": "Santa Mônica",
+            "city": "Uberlândia",
+            "uf": "MG",
+            "country": "BR",
+            "zipcode": "38408-256",
+            "complete": "Casa, Rua Armando Tucci, Santa Mônica, Uberlândia, Minas Gerais, Brazil, 38408-256"
+        }
+    },
+    "business": {
+        "name": "Loja da bala",
+        "phone": "3496867887",
+        "document": null,
+        "address": {
+            "street": "Unnamed Road",
+            "neighborhood": "Vila Moema",
+            "city": "Tubarão",
+            "uf": "SC",
+            "country": "BR",
+            "complete": "Rua Abc Brasil"
+        },
+        "logo": "https://www.meufarol.com.br/assets/img/restaurants/16077077971jtdZAPVtV.jpg"
+    }
+}
